@@ -15,7 +15,7 @@ When we talk of GPIO pins, so far the pins have been configured as outputs. In t
 There are four push buttons on the module support board
 
 <figure>
-<img src="../img/components/buttons.jpg" width="200px">
+<img src="../img/components/buttons.jpg" width="200px">      //push down resistors
 <figcaption>Showing the 4 push buttons on the module support board</figcaption>
 </figure>
 
